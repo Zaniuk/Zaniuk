@@ -1,4 +1,11 @@
-### Hi there 👋
+<link rel="stylesheet" href="./css/main.css" type="text/css">
+<div id="banner">
+    <div class="container">
+        <span class="typed-out">Hello, there!</span>
+    </div>
+</div>
+
+
 
 <!--
 **Zaniuk/Zaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

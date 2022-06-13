@@ -8,7 +8,9 @@
 
 <h3 align="center">Links</h3>
 <div class="flex-container">
-	<a href="https://github.com/Zaniuk">Github</a>
-    <a href="https://www.linkedin.com/in/geronimo-zaniuk/">LinkedIn</a>
-    <a href="#">Portfolio</a>
+    <span align="center">
+	    <a href="https://github.com/Zaniuk">Github</a>
+        <a href="https://www.linkedin.com/in/geronimo-zaniuk/">LinkedIn</a>
+        <a href="#">Portfolio</a>
+    </span>
 </div>

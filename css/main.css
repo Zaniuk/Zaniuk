@@ -1,29 +1,7 @@
-h1{
-    color: black;
-}
-
-#banner{
-    background-image: url('../img/banner.png');
-    height: 200px;
-    object-fit: cover;
+.flex-container{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
-.container {
-    display: inline-block;
+.flex-container a{
+    padding: .5rem;
 }
-@keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  .typed-out{
-    color: black;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    font-size: 1.6rem;
-    width: 0;
-    animation: 
-      typing 1s steps(20, end) forwards;
-  }

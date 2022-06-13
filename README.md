@@ -1,23 +1,14 @@
 <link rel="stylesheet" href="./css/main.css" type="text/css">
-<div id="banner">
-    <div class="container">
-        <span class="typed-out">Hello, there!</span>
-    </div>
+
+<h1 align="center">Hi👋! I'm Geronimo</h1>
+<p align="center">A Full-Stack web Developer🛠️ and huge tech passionate💻</p>
+<h2>A bit about me...</h2>
+👨 I'm currently studying full-stack web development at J.P Morgan scolarship program. <br>
+🌱 Learning **MERN** stack, svelte, python and much more... <br><br>
+
+<h3 align="center">Links</h3>
+<div class="flex-container">
+	<a href="https://github.com/Zaniuk">Github</a>
+    <a href="https://www.linkedin.com/in/geronimo-zaniuk/">LinkedIn</a>
+    <a href="#">Portfolio</a>
 </div>
-
-
-
-<!--
-**Zaniuk/Zaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -4,7 +4,7 @@
 <p align="center">A Full-Stack web Developer🛠️ and huge tech passionate💻</p>
 <h2>A bit about me...</h2>
 👨 I'm currently studying full-stack web development at J.P Morgan scolarship program. <br>
-🌱 Learning **MERN** stack, svelte, python and much more... <br><br>
+🌱 Learning <b>MERN</b> stack, svelte, python and much more... <br><br>
 
 <h3 align="center">Links</h3>
 <div class="flex-container">

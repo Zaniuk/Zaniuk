@@ -6,13 +6,13 @@
 👨 I'm currently studying full-stack web development at J.P Morgan scolarship program. <br>
 🌱 Learning <b>MERN</b> stack, svelte, python and much more... <br><br>
 
-<h3 align="center">Links</h3>
+<h3>Links</h3>
 <div class="flex-container">
 <center>
     <span align="center">
 	    <a href="https://github.com/Zaniuk">Github</a>
         <a href="https://www.linkedin.com/in/geronimo-zaniuk/">LinkedIn</a>
-        <a href="#">Portfolio</a>
+        <a href="https://portfolio-f01.pages.dev/">Portfolio</a>
     </span>
 </center>
 </div>

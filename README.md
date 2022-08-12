@@ -1,3 +1,4 @@
+
 <link rel="stylesheet" href="./css/main.css" type="text/css">
 
 <h1 align="center">Hi👋! I'm Geronimo</h1>
@@ -16,3 +17,5 @@
     </span>
 </center>
 </div>
+<br><br><br>
+<a href="https://app.daily.dev/geronimomw"><img src="https://api.daily.dev/devcards/fbba738ad3264d26a7c9a08e38d52595.png?r=7fp" width="400" alt="Geronimo Zaniuk's Dev Card"/></a>

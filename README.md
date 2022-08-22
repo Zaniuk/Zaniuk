@@ -18,4 +18,4 @@
 </center>
 </div>
 <br><br><br>
-<a href="https://app.daily.dev/geronimomw"><img src="https://api.daily.dev/devcards/fbba738ad3264d26a7c9a08e38d52595.png?r=frx" width="400" alt="Geronimo Zaniuk's Dev Card"/></a>
+<a href="https://app.daily.dev/geronimomw"><img src="https://api.daily.dev/devcards/fbba738ad3264d26a7c9a08e38d52595.png?r=w2z" width="400" alt="Geronimo Zaniuk's Dev Card"/></a>

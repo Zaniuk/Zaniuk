@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Alkemy ONG<br>🌱 I’m currently learning Java and Spring/Springboot, Software Architecture and Desing Patterns<br>💬 Ask me about NodeJS, Express, React<br>
+🔭 I’m currently working on Alkemy ONG<br>🌱 I’m currently learning Go/Golang, Software Architecture and Desing Patterns<br>💬 Ask me about NodeJS, Express, React<br>
 
 
 ## 🌐 Socials:

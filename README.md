@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geronimo Zaniuk</h1>
-<h3 align="center">A Full-Stack web Developer🛠️ and huge tech passionate💻</h3>
+<h3 align="center">A Backend Engineer🛠️ and huge tech passionate💻</h3>
 
 
 # 💫 About Me:

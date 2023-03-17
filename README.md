@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on 465 Consultora<br>🌱 Learning Go/Golang, Microservices, Distibuted Systems and Desing Patterns<br>💬 Ask me about NodeJS, Express, React<br>
+🔭 I’m currently working at MercadoLibre<br>🌱 Learning Go/Golang, Microservices, Distibuted Systems and Desing Patterns<br>💬 Ask me about NodeJS, Express, React<br>
 
 
 ## 🌐 Socials:
